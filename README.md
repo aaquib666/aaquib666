@@ -3,7 +3,7 @@ I am a second-year BSc Cybersecurity student at APU, in partnership with Staffor
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aaquib._24)   
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aaquib._24)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/htaaquib-rizwan-305647337) 
 
 # Tech Stack:
