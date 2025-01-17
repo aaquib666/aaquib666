@@ -1,5 +1,5 @@
 # About Me:
-I am a second-year BSc Cybersecurity student at APU, in partnership with Staffordshire University, specializing in penetration testing, ethical hacking, and cyber defense. My expertise includes threat modeling, incident response, reconnaissance, and exploitation techniques, with proficiency in tools like Kali Linux, Metasploit, and Wireshark. Currently, I am advancing my skills in secure coding, penetration testing, and network security, while actively solving CTF challenges and staying updated on cybersecurity trends to contribute to creating a safer digital landscape.
+I am a second-year BSc Cybersecurity student at APIIT, in partnership with Staffordshire University, specializing in penetration testing, ethical hacking, and cyber defense. My expertise includes threat modeling, incident response, reconnaissance, and exploitation techniques, with proficiency in tools like Kali Linux, Metasploit, and Wireshark. Currently, I am advancing my skills in secure coding, penetration testing, and network security, while actively solving CTF challenges and staying updated on cybersecurity trends to contribute to creating a safer digital landscape.
 
 
 ## Socials:
