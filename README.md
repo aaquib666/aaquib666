@@ -1,4 +1,4 @@
-![Hey There, I'm Aaquib Rizwan](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![Hey There, I'm Aaquib Rizwan](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaquib666&label=Profile%20views&color=0e75b6&style=flat)
 
