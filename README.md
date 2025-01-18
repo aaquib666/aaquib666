@@ -27,3 +27,9 @@ I am a second-year BSc Cybersecurity student at APIIT, in partnership with Staff
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaquib666&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaquib666&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&line_height=25" alt="GitHub stats Card" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaquib666/aaquib666/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaquib666/aaquib666/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aaquib666/aaquib666/output/github-snake.svg" />
+</picture>
